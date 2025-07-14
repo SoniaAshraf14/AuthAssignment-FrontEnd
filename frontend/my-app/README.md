@@ -66,8 +66,8 @@ npm run dev
 
 ## AI Contribution:
 
-* 95% Frontend developed by **me (Sonia)**
-* 5% Guidance, logic corrections & form validations helped by **ChatGPT**
+* 5% Frontend developed by **me (Sonia)**
+* 95% Guidance, logic corrections & form validations helped by **ChatGPT**
 
 ---
 
